@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed AbdElbaser</h1>
-<h3 align="center">Software Engineer | Frontend Developer from Egypt</h3>
+<h3 align="center">Software Engineer | Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abser10&label=Profile%20views&color=0e75b6&style=flat" alt="abser10" /> </p>
 
