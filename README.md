@@ -4,6 +4,23 @@
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abser10&label=Profile%20views&color=0e75b6&style=flat" alt="abser10" /> </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4BC0C8&center=true&vCenter=true&width=435&lines=Front-End+Developer;Clean+Code+Advocate;Passionate+about+UX+%26+Performance)](https://git.io/typing-svg)
+
+---
+
+## **About Me**
+> 🎯 Front-End Developer with a passion for building clean, scalable, and user-centered web applications.  
+>  
+> ⚡ Specializing in **HTML5**, **CSS3**, **JavaScript (ES6+)**, **React.js**, and **TailwindCSS**.  
+>  
+> 🛠️ Focused on **Performance Optimization**, **Accessibility**, and **Design Systems**.  
+>  
+> 🚀 Currently leveling up my skills with **Advanced React Patterns** and **Next.js**.  
+>  
+> ✨ Always learning, always shipping, always leveling up!
+
+---
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abser10" alt="abser10" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/abaser" target="blank"><img src="https://img.shields.io/twitter/follow/abaser?logo=twitter&style=for-the-badge" alt="abaser" /></a> </p>
@@ -45,3 +62,64 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abser10&" alt="abser10" /></p>
 
+
+
+## **Tech Stack**
+
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  
+</div>
+
+---
+
+## **Currently Learning**
+- **Next.js** for Full-Stack capabilities
+- **Advanced React Patterns**
+- **Building Scalable Component Libraries**
+- **Performance Optimization Techniques**
+
+---
+
+## **Core Values**
+- **Clean Code** over "just works" code
+- **User First**: The user experience always wins
+- **Continuous Growth**: Stay curious, stay learning
+- **Respect the Craft**: Coding is an art and a discipline
+
+---
+
+## **Quote I Live By**
+> “First, solve the problem. Then, write the code.” — John Johnson
+
+---
+
+## **Skills & Expertise**
+
+| Skill             | Level |
+| ----------------- | ----- |
+| HTML5             | ![90%](https://progress-bar.dev/90/) |
+| CSS3              | ![85%](https://progress-bar.dev/85/) |
+| JavaScript (ES6+) | ![80%](https://progress-bar.dev/80/) |
+| React.js          | ![75%](https://progress-bar.dev/75/) |
+| TailwindCSS       | ![80%](https://progress-bar.dev/80/) |
+| Git & GitHub      | ![70%](https://progress-bar.dev/70/) |
+
+---
+
+## **Coming Soon**
+- 🚀 **Portfolio Website:** A sleek, performance-optimized personal portfolio built with React and TailwindCSS.
+- ⚙️ **Component Library:** A reusable library of React components based on a custom design system.
+- 🛠️ **Open Source Contributions:** Excited to contribute to front-end communities and open-source projects.
+- 📚 **Technical Blog:** Writing articles about clean code practices, React tricks, and building scalable front-end architectures.
+
+---
+
+# Let's build something legendary together!
